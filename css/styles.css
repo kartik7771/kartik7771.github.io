@@ -2,3 +2,14 @@ h3
 {
 	color: blue;
 }
+body
+{
+	background: rgb(145, 168, 50)
+}
+img
+{
+	width: 30%;
+	float:left;
+	margin:1%;
+	border: 1px solid black;
+}
